@@ -1,0 +1,5 @@
+101:Single:100.00:Available:WiFi,TV,AC
+102:Double:150.00:Available:WiFi,TV,AC,Meal Service
+103:Suite:300.00:Available:WiFi,TV,AC,Meal Service,Jacuzzi
+104:Single:120.00:Booked:WiFi,TV,AC,Balcony
+105:Double:180.00:Available:WiFi,TV,AC,Meal Service,Balcony
